@@ -3,7 +3,20 @@ I am a junior software engineer from Russia.
 
 - 🔭 Worked on some frontend and backend project using JavaScript.
 - 🔭 Worked on some Python project with Django, numpy, pandas, SQL.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning frontend developing, data pipelines building.
 - 🌱 Learning Algorithms and Data Structures, Data Engineering and Data Analysis.
+- 👯 I’m looking to collaborate on Blockchain development.
+- 🤔 I’m looking for help with learning Blockchain development.
+- ⚡ Fun fact: I have never been abroad)).
+<br>
+
+### Привет, Мир 👋
+Я скромный джун-разработчик), родной язык калмыцкий, говорю больше на русском, пишу на Python, SQL, JavaScript.
+
+- 🔭 Создал проект по парсингу текстовых файлов, извлечения из них географических координат и созданию географической карты с нанесенными на ней метками. В этом мне помогли упорство, труд и мои друзья Python, JavaScript)).
+- 🔭 Создал проект по формированию ETL-процесса для анализа банковских транзакций на предмет фрауд-операций с формированием витрины для последующего анализа. Здесь мне помог SQL, Python. 
+- 🌱 Учу Алгоритмы и Структуры данных, Дата-инжиниринг и Дата-анализ.
 <br>
 
 ## Connect with me
@@ -28,13 +41,3 @@ I am a junior software engineer from Russia.
 
 <br>
 <br>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
