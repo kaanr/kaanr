@@ -2,7 +2,8 @@
 I am a junior software engineer from Russia.
 
 - 🔭 Worked on some frontend and backend project using JavaScript.
-- 🌱 Worked on some Python project with Django, numpy, pandas.
+- 🔭 Worked on some Python project with Django, numpy, pandas, SQL.
+- 🌱 Learning Algorithms and Data Structures, Data Engineering and Data Analysis.
 <br>
 
 ## Connect with me
