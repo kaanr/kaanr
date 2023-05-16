@@ -6,7 +6,7 @@ I am a humble junior software engineer from Russia.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontend developing, data pipelines building.
 - 🌱 I learn Algorithms and Data Structures, Data Engineering and Data Analysis.
-- 🌱 I learn ChatGPT and his abilities.
+- 🌱 I learn ChatGPT and it's abilities.
 <br>
 
 ### Привет, Мир 👋
