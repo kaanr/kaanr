@@ -3,6 +3,7 @@ I am a humble junior software engineer from Russia.
 
 - 🔭 Worked on some frontend and backend project using JavaScript.
 - 🔭 Worked on some Python project with Django, numpy, pandas, SQL.
+- 🔭 [Worked on some Python project with pandas, Nominatim, folium, JavaScript](https://github.com/kaanr/GeoLogisticsVisualizer)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontend developing, data pipelines building.
 - 🌱 I learn Algorithms and Data Structures, Data Engineering and Data Analysis.
