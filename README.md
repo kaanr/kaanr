@@ -7,7 +7,6 @@ I am a humble junior software engineer from Russia.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontend developing, data pipelines building.
 - 🌱 I learn Algorithms and Data Structures, Data Engineering and Data Analysis.
-- 🌱 I learn ChatGPT and it's abilities.
 <br>
 
 ### Привет, Мир 👋
@@ -18,7 +17,6 @@ I am a humble junior software engineer from Russia.
 - 🔭 Создал [интегрированный набор инструментов на Python для преобразования логистических данных из HTML в практические географические карты с геометками](https://github.com/kaanr/GeoLogisticsVisualizer).
 - 🌱 Учу Алгоритмы и Структуры данных, Дата-инжиниринг и Дата-анализ, СУБД Postgresql.
 - 🌱 Учу фронтенд-разработку, организацию ETL-процессов.
-- 🌱 Изучаю ChatGPT и его возможности)
 <br>
 
 ## Skillsets / Навыки, мои умения)
