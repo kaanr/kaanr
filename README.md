@@ -4,6 +4,7 @@ I am a humble junior software engineer from Russia.
 - 🔭 Worked on some frontend and backend project using JavaScript.
 - 🔭 Worked on some Python project with Django, numpy, pandas, SQL.
 - 🔭 [Worked on some Python project with pandas, Nominatim, folium, JavaScript](https://github.com/kaanr/GeoLogisticsVisualizer)
+- 🔭 [Worked on some Python project with BeautifulSoup, Selenium, PostgreSQL](https://github.com/kaanr/VKDataHarvester)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontend developing, data pipelines building.
 - 🌱 I learn Algorithms and Data Structures, Data Engineering and Data Analysis.
@@ -15,6 +16,7 @@ I am a humble junior software engineer from Russia.
 - 🔭 Создал проект по парсингу текстовых файлов, извлечения из них географических координат и созданию географической карты с нанесенными на ней метками. В этом мне помоги упорство, труд и мои друзья Python, JavaScript, Apache, mapnik, Postgresql, OSM-карты)).
 - 🔭 Создал проект по формированию ETL-процесса для анализа банковских транзакций на предмет фрауд-операций с формированием витрины для последующего анализа. Здесь мне помог SQL, Python.
 - 🔭 Создал [интегрированный набор инструментов на Python для преобразования логистических данных из HTML в практические географические карты с геометками](https://github.com/kaanr/GeoLogisticsVisualizer).
+- 🔭 Создал [автоматизированный инструмент на Python, разработанный для извлечения данных из публичных страниц VK.com](https://github.com/kaanr/VKDataHarvester)
 - 🌱 Учу Алгоритмы и Структуры данных, Дата-инжиниринг и Дата-анализ, СУБД Postgresql.
 - 🌱 Учу фронтенд-разработку, организацию ETL-процессов.
 <br>
